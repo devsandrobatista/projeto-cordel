@@ -89,12 +89,12 @@ section.imagem > .estrofe {
 }
 
 section.imagem-1 {
-  background-image: url("../image/background001.jpg");
+  background-image: url("../images/background001.jpg");
   background-position: right center;
 }
 
 section.imagem-2 {
-  background-image: url("../image/background002.jpg");
+  background-image: url("../images/background002.jpg");
   background-position: center center;
 }
 

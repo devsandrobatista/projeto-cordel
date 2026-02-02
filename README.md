@@ -15,9 +15,11 @@ O projeto explora fortemente tipografia, efeito parallax, cores, layout responsi
 
 ## 👀 Preview do Projeto
 
-**💻 Desktop**
+- **💻 Desktop**
+  ![Imagem da visualização do projeto](assets/images/preview-image.png)
 
-💡 Dica: um print mostrando o efeito parallax em ação valoriza bastante esse projeto.
+- **📽️ Preview Gif**
+  ![Visualização do Projeto em gif](assets/videos/preview-video.gif)
 
 ## 🌐 Acesse o Projeto
 
@@ -52,10 +54,11 @@ projeto-cordel/<br>
 │ ├── 📂 css/<br>
 │ │ ├── reset.css<br>
 │ │ └── style.css<br>
-│ └── 📂 images/<br>
-│ ├── background1.jpg<br>
-│ ├── background2.jpg<br>
-│ └── preview-desktop.png<br>
+│ ├── 📂 images/<br>
+│ │ ├── background1.jpg<br>
+│ │ ├── background2.jpg<br>
+│ │ └── preview-desktop.png<br>
+│ └── 📂 videos/<br>
 ├── .gitattributes<br>
 ├── index.html<br>
 ├── LICENSE<br>
