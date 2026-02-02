@@ -101,7 +101,7 @@ Projeto desenvolvido com base no conteúdo educacional do [CursoemVídeo](https:
 
 **Professor:** [Gustavo Guanabara](https://github.com/gustavoguanabara)
 
-**Curso:** [HTML5 e CSS3: modulo 4 de 5](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/)
+**Curso:** [HTML5 e CSS3: modulo 3 de 5](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/)
 
 ## 📄 Licença
 
