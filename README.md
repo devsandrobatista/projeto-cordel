@@ -49,20 +49,20 @@ O foco é layout, estilização e apresentação de conteúdo.
 
 ## 📂 Estrutura do Projeto
 
-projeto-cordel/<br>
-├── 📂 assets/<br>
-│ ├── 📂 css/<br>
-│ │ ├── reset.css<br>
-│ │ └── style.css<br>
-│ ├── 📂 images/<br>
-│ │ ├── background1.jpg<br>
-│ │ ├── background2.jpg<br>
-│ │ └── preview-desktop.png<br>
-│ └── 📂 videos/<br>
-├── .gitattributes<br>
-├── index.html<br>
-├── LICENSE<br>
-└── README.md
+      projeto-cordel/
+      ├── 📂 assets/
+      │ ├── 📂 css/
+      │ │ ├── reset.css
+      │ │ └── style.css
+      │ ├── 📂 images/
+      │ │ ├── background1.jpg
+      │ │ ├── background2.jpg
+      │ │ └── preview-desktop.png
+      │ └── 📂 videos/
+      ├── .gitattributes
+      ├── index.html
+      ├── LICENSE
+      └── README.md
 
 ## 🚀 Como Executar o Projeto
 
